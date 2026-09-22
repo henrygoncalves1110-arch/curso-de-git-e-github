@@ -1,2 +1,2 @@
 # curso-de-git-e-github
-primeiro repositorio do curso
+Primeiro repositorio do curso git e github.
